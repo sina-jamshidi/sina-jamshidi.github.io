@@ -227,7 +227,7 @@ input, select, textarea {
 	.container {
 		margin: 0 auto;
 		max-width: calc(100% - 50px);
-		width: 1200px;
+		/*width: 1200px;*/
 	}
 
 		.container.medium {
@@ -2371,6 +2371,7 @@ input, select, textarea {
 					max-width: 32em;
 					margin-left: auto !important;
 					margin-right: auto !important;
+
 				}
 
 				.box.style2 {
@@ -2389,8 +2390,10 @@ input, select, textarea {
 		/* Nav */
 
 			#nav {
-				height: 44px;
-				line-height: 44px;
+				/*height: 44px;
+				line-height: 44px;*/
+				height: auto;
+				line-height: auto;
 			}
 
 				#nav a {
