@@ -1644,8 +1644,8 @@ input, select, textarea {
 			margin: 0 0 2em 0;
 		}
 
-		.image.featured:hover {
-			filter: blur(1px);
+		a.image.featured:hover {
+			opacity: 75%;
 		}
 
 		.image.left {
