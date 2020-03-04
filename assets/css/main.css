@@ -1644,6 +1644,10 @@ input, select, textarea {
 			margin: 0 0 2em 0;
 		}
 
+		.image.featured:hover {
+			filter: blur(1px);
+		}
+
 		.image.left {
 			float: left;
 			margin: 0 2em 2em 0;
