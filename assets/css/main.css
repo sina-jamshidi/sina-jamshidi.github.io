@@ -1622,6 +1622,14 @@ input, select, textarea {
 	}
 
 /* Image */
+	.workImage img {
+		width: 20rem;
+	}
+	.workImage a :hover {
+		opacity: 75%;
+	}
+
+
 
 	.image {
 		display: inline-block;
