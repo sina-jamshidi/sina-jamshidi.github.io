@@ -1,7 +1,6 @@
 import * as React from "react";
 import type { HeadFC, PageProps } from "gatsby";
 import BlurIn from "@/components/ui/blur-in";
-import AvatarCircles from "@/components/ui/avatar-circles";
 import { MailIcon } from "lucide-react";
 import {
   Tooltip,
