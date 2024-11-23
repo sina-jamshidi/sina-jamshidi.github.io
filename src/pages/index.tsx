@@ -84,7 +84,7 @@ const IndexPage: React.FC<PageProps> = () => {
         meaningful products
       </h3>
       <div className="max-w-2xl place-self-center mb-6">
-        <Marquee pauseOnHover className="[--duration:20s]">
+        <Marquee pauseOnHover className="[--duration:20s] max-w-[100vw]">
           <div className="flex items-center gap-8 mr-4">
             <a href="https://tanium.com" target="_blank" rel="noreferrer">
               <div className="flex flex-row items-center gap-2 bg-white/50 backdrop-blur-sm rounded-lg p-4 shadow-sm hover:shadow-md">
