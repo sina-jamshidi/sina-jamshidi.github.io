@@ -444,6 +444,12 @@ const IndexPage: React.FC<PageProps> = () => {
                                 NextJS
                             </span>
                             <span className="px-2 py-1 bg-slate-200 rounded-md text-sm text-slate-700">
+                                MongoDB
+                            </span>
+                            <span className="px-2 py-1 bg-slate-200 rounded-md text-sm text-slate-700">
+                                Vercel
+                            </span>
+                            <span className="px-2 py-1 bg-slate-200 rounded-md text-sm text-slate-700">
                                 OpenAI
                             </span>
                         </div>
@@ -485,6 +491,59 @@ const IndexPage: React.FC<PageProps> = () => {
                             </span>
                             <span className="px-2 py-1 bg-slate-200 rounded-md text-sm text-slate-700">
                                 Shadcn
+                            </span>
+                        </div>
+                    </div>
+                    <div className="bg-white/50 backdrop-blur-sm rounded-lg p-4 shadow-sm">
+                        <div className="mb-2">
+                            <a
+                                href="https://wallstreetdd.xyz"
+                                target="_blank"
+                                rel="noreferrer"
+                                className="hover:opacity-75 flex items-center gap-2"
+                            >
+                                <div className="h-10 w-16 border-2 flex items-center justify-center bg-green-50">
+                                    <span
+                                        className="text-xl"
+                                        role="img"
+                                        aria-label="Chart Up"
+                                    >
+                                        📈
+                                    </span>
+                                </div>
+                            </a>
+                            <h3 className="font-medium text-slate-800 mb-2">
+                                WallstreetDD
+                            </h3>
+                        </div>
+                        <p className="text-slate-600 mb-3">
+                            An app that automatically analyzes investment due
+                            diligence (DD) posts from Reddit every hour and
+                            provides AI-generated summaries, insights, and risk
+                            analysis. Includes feedback mechanisms and
+                            monitoring.
+                        </p>
+                        <div className="flex flex-wrap gap-2">
+                            <span className="px-2 py-1 bg-slate-200 rounded-md text-sm text-slate-700">
+                                React
+                            </span>
+                            <span className="px-2 py-1 bg-slate-200 rounded-md text-sm text-slate-700">
+                                Typescript
+                            </span>
+                            <span className="px-2 py-1 bg-slate-200 rounded-md text-sm text-slate-700">
+                                Shadcn
+                            </span>
+                            <span className="px-2 py-1 bg-slate-200 rounded-md text-sm text-slate-700">
+                                Python
+                            </span>
+                            <span className="px-2 py-1 bg-slate-200 rounded-md text-sm text-slate-700">
+                                PostgreSQL
+                            </span>
+                            <span className="px-2 py-1 bg-slate-200 rounded-md text-sm text-slate-700">
+                                Docker
+                            </span>
+                            <span className="px-2 py-1 bg-slate-200 rounded-md text-sm text-slate-700">
+                                Grafana
                             </span>
                         </div>
                     </div>
