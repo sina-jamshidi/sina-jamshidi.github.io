@@ -591,7 +591,7 @@ const IndexPage: React.FC<PageProps> = () => {
                         <Tooltip>
                             <TooltipTrigger asChild>
                                 <a
-                                    href="https://x.com/sjamstweets"
+                                    href="https://x.com/sinapostsstuff"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                 >
