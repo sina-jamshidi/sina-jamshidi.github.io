@@ -650,22 +650,6 @@ const IndexPage: React.FC<PageProps> = () => {
                         <Tooltip>
                             <TooltipTrigger asChild>
                                 <a
-                                    href="https://x.com/sinapostsstuff"
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                >
-                                    <Icons.x className="size-6" />
-                                </a>
-                            </TooltipTrigger>
-                            <TooltipContent>
-                                <p>X</p>
-                            </TooltipContent>
-                        </Tooltip>
-                    </DockIcon>
-                    <DockIcon>
-                        <Tooltip>
-                            <TooltipTrigger asChild>
-                                <a
                                     href="https://bsky.app/profile/sinapostsstuff.bsky.social"
                                     target="_blank"
                                     rel="noopener noreferrer"
