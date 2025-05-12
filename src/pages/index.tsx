@@ -296,9 +296,9 @@ const IndexPage: React.FC<PageProps> = () => {
                         <p className="text-slate-600 mb-3">
                             Hatchways is an early stage YC startup that
                             qualifies and matches software engineers with jobs.
-                            I do work on the frontend, backend, and automation.
-                            I also review candidates' submitted projects and
-                            perform mock interviews during their interview
+                            I worked on the frontend, backend, and automation. I
+                            also reviewed candidates' submitted projects and
+                            performed mock interviews during their interview
                             preparation.
                         </p>
                         <div className="flex flex-wrap gap-2">
