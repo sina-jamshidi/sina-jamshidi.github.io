@@ -406,7 +406,7 @@ const IndexPage: React.FC<PageProps> = () => {
                     <div className="bg-white/50 backdrop-blur-sm rounded-lg p-4 shadow-sm">
                         <div className="mb-2">
                             <a
-                                href="https://otterscript.com"
+                                href="https://www.producthunt.com/products/otter-script"
                                 target="_blank"
                                 rel="noreferrer"
                                 className="hover:opacity-75 flex items-center gap-2"
