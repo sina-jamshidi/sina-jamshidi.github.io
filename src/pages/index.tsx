@@ -164,7 +164,7 @@ const IndexPage: React.FC<PageProps> = () => {
                     <div className="bg-white/50 backdrop-blur-sm rounded-lg p-4 shadow-sm">
                         <div className="flex flex-row justify-between">
                             <h3 className="font-medium text-slate-800 mb-2">
-                                Software Engineer II
+                                Senior Software Engineer
                             </h3>
                             <span className="inline-flex items-center rounded-full bg-green-100 px-2.5 py-1 text-xs font-medium text-green-700 ring-1 ring-inset ring-green-600/20">
                                 Current
